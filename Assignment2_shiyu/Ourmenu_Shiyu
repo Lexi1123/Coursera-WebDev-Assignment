@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewpoint" content="with=device-width, intitial-scal=1">
+<titlt>Menu</titlt>
+<link rel="stylesheet" href="css/stylesheet.css">
+</head>
+
+<body>
+<h1>Our Menu</h1>
+
+<div class=".row">
+<div class="col-lg-4 col-md-6 col-sm-12">
+  <div>
+	<div id="p1">Chicken</div>
+	<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient monteset magnis dis parturient montesp.</p>
+</div></div>
+
+<div class="col-lg-4 col-md-6 col-sm-12">
+  <div>
+	<div id="p2">Sushi</div>
+	<p>nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.</p>
+</div></div>
+
+<div class="col-lg-4 col-md-12 col-sm-12">
+  <div>
+	<div id="p3">Ramen</div>
+	<p>In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.</p>
+</div></div>
+</div>
+</body>
+</html>
