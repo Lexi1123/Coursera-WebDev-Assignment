@@ -4,3 +4,6 @@ https://lexi1123.github.io/Coursera-WebDev-Assignment/module-2-solution/index.ht
 
 Module 3 Solution
 https://lexi1123.github.io/Coursera-WebDev-Assignment/module-3-solution/index.html
+
+Module 4 Solution
+https://lexi1123.github.io/Coursera-WebDev-Assignment/module-4-solution/index.html
